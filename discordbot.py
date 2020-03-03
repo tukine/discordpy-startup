@@ -18,4 +18,4 @@ async def ping(ctx):
     await ctx.send('pong')
 
 
-bot.run(nMtzpktofsH1rGAhVZdQkfq3oWbQpCT0)
+bot.run(token)
